@@ -1,4 +1,4 @@
-# signate_COVID-19-phase2
+# signate-COVID-19-phase2
 ## 感染症指定医療機関の逼迫状況の可視化と重症者搬送計画モデルの提案
 
 ### 背景
